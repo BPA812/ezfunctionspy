@@ -1,0 +1,9 @@
+README.md
+setup.py
+ezfunctions/__init__.py
+ezfunctions/myfunctions.py
+ezfunctionsforpy.egg-info/PKG-INFO
+ezfunctionsforpy.egg-info/SOURCES.txt
+ezfunctionsforpy.egg-info/dependency_links.txt
+ezfunctionsforpy.egg-info/top_level.txt
+tests/test_myfunctions.py

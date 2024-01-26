@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+ezfunctions_BPA812.egg-info/PKG-INFO
+ezfunctions_BPA812.egg-info/SOURCES.txt
+ezfunctions_BPA812.egg-info/dependency_links.txt
+ezfunctions_BPA812.egg-info/top_level.txt
+tests/test_myfunctions.py
